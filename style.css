@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(253, 236, 0);
+}
+
+.calculator {
+   position: absolute;
+   top: 20%;
+   left: 40%;
+   background-color: whitesmoke;
+   padding-top: 150px;
+   padding-bottom: 150px;
+   padding-left: 100px;
+   padding-right: 100px;
+   border: solid 3px black;
+}
+.calculator h1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    padding-right: 114px;
+    padding-left: 111px;
+    color:yellow;
+    background-color: black;
+}
+.calculator p {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.calculator input {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.calculator select {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.calculator span {
+    margin-left: 10px;
+    font-size: 20px;
+}
+.calculator button {
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: 30px;
+    background-color: black;
+    color: yellow;
+    padding: 10px; 
+    border-radius: 10px;
+}
+.calculator h6 {
+    font-size: 30px;
+    padding-top: 10px;
+}
